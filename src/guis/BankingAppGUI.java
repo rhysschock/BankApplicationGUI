@@ -114,6 +114,7 @@ public class BankingAppGUI extends BaseFrame implements ActionListener {
         }
         //make app dialog visible
         bankingAppDialogue.setVisible(true);
+        
 
     }
 
