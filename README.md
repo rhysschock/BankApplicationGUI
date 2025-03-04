@@ -16,10 +16,6 @@
 
 8. **Transferring to Users within the MySQL Database**: Users can transfer funds to other registered users.
 
-<p align="center">
-  <img src="[https://github.com/curadProgrammer/BankAppJava/blob/main/Screenshot_16.png" alt="Bank App Screenshot"](https://github.com/rhysschock/BankApplicationGUI/blob/main/BankAppGUI.png)>
-</p>
-
 ### Technologies
 
 - Java Development Kit (JDK18)
